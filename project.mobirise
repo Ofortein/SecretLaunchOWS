@@ -317,7 +317,8 @@
               "color": "#ffffff"
             },
             "H1": {
-              "color": "#ba61e5"
+              "color": "#ba61e5",
+              "text-align": "center"
             }
           },
           "_name": "header15",
